@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-23T11:35:46.048Z'
-dateModified: '2016-04-23T11:35:20.379Z'
+datePublished: '2016-04-23T11:55:43.248Z'
+dateModified: '2016-04-23T11:51:56.389Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-23-those-tired-eyes.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-23-those-tired-eyes.md
-published: true
 url: those-tired-eyes/index.html
 _type: Article
 
